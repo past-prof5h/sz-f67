@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://past-prof5h.github.io/sz-f67/sitemap.xml
